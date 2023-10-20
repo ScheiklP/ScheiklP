@@ -13,4 +13,5 @@
 ### Contributing to
 - [SOFA](https://github.com/sofa-framework/sofa): Real-time multi-physics simulation with an emphasis on medical simulation.
 - [SofaPython3](https://github.com/sofa-framework/SofaPython3): Python bindings for SOFA.
+- [MP_PyTorch](https://github.com/ALRhub/MP_PyTorch): Movement Primitives in PyTorch.
 - [qmk](https://github.com/qmk/qmk_firmware): Keyboard firmware.
