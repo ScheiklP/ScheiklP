@@ -1,16 +1,16 @@
-### Hi there 👋
+### Projects
+- [sofa_env](https://github.com/ScheiklP/sofa_env): Reinforcement learning environments for robot-assisted laparoscopic surgery.
+- [sofa_zoo](https://github.com/ScheiklP/sofa_zoo): Reinforcement learning scripts for sofa_env environments.
+- [sofa_godot](https://github.com/ScheiklP/sofa_godot): A Godot plugin to create SOFA scenes in Godot.
 
-<!--
-**ScheiklP/ScheiklP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code for papers
+- [LapGym](https://github.com/ScheiklP/lap_gym): An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery ([paper](https://arxiv.org/abs/2302.09606
+)).
 
-Here are some ideas to get you started:
+### Educational projects
+- [CURAC Academy 2021 - Workshop](https://github.com/ScheiklP/CURAC-Academy-2021): Introduction to deep learning on medical data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contributing to
+- [SOFA](https://github.com/sofa-framework/sofa): Real-time multi-physics simulation with an emphasis on medical simulation.
+- [SofaPython3](https://github.com/sofa-framework/SofaPython3): Python bindings for SOFA.
+- [qmk](https://github.com/qmk/qmk_firmware): Keyboard firmware.
