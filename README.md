@@ -7,9 +7,9 @@
 - [LapGym](https://github.com/ScheiklP/lap_gym) -- An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery ([paper](https://arxiv.org/abs/2302.09606
 )).
 - [Environment](https://github.com/ScheiklP/sofa_env/tree/main/sofa_env/scenes/tissue_retraction
-) for Sim-to-Real Transfer for Visual Reinforcement Learning of Deformable Object Manipulation for Robot-Assisted Surgery ([paper](https://ieeexplore.ieee.org/abstract/document/9976185))
+) for Sim-to-Real Transfer for Visual Reinforcement Learning of Deformable Object Manipulation for Robot-Assisted Surgery ([paper](https://ieeexplore.ieee.org/abstract/document/9976185)).
 - [Extended environment](https://github.com/ScheiklP/sofa_env/tree/main/sofa_env/scenes/tissue_retraction
-) for Cooperative Assistance in Robotic Surgery through Multi-Agent Reinforcement Learning ([paper](https://ieeexplore.ieee.org/abstract/document/9636193)) 
+) for Cooperative Assistance in Robotic Surgery through Multi-Agent Reinforcement Learning ([paper](https://ieeexplore.ieee.org/abstract/document/9636193)).
 
 ### Educational projects
 - [CURAC Academy 2021 - Workshop](https://github.com/ScheiklP/CURAC-Academy-2021): Introduction to deep learning on medical data.
