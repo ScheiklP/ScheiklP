@@ -15,7 +15,7 @@
 - [CURAC Academy 2021 - Workshop](https://github.com/ScheiklP/CURAC-Academy-2021): Introduction to deep learning on medical data.
 
 ### Contributing to
-- [SOFA](https://github.com/sofa-framework/sofa): Real-time multi-physics simulation with an emphasis on medical simulation.
+- [SOFA](https://github.com/sofa-framework/sofa): Real-time multi-physics simulation with an emphasis on medical simulation. [SOFA Award 2022](https://www.sofa-framework.org/about/news/two-winners-of-the-sofa-awards-2022/).
 - [SofaPython3](https://github.com/sofa-framework/SofaPython3): Python bindings for SOFA.
 - [MP_PyTorch](https://github.com/ALRhub/MP_PyTorch): Movement Primitives in PyTorch.
 - [qmk](https://github.com/qmk/qmk_firmware): Keyboard firmware.
