@@ -4,8 +4,7 @@
 - [sofa_godot](https://github.com/ScheiklP/sofa_godot): A Godot plugin to create SOFA scenes in Godot.
 
 ### Code for papers
-- [LapGym](https://github.com/ScheiklP/lap_gym) -- An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery ([paper](https://arxiv.org/abs/2302.09606
-)).
+- [LapGym](https://github.com/ScheiklP/lap_gym) -- An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery ([paper](https://www.jmlr.org/papers/v24/23-0207.html)).
 - [Environment](https://github.com/ScheiklP/sofa_env/tree/main/sofa_env/scenes/tissue_retraction
 ) for Sim-to-Real Transfer for Visual Reinforcement Learning of Deformable Object Manipulation for Robot-Assisted Surgery ([paper](https://ieeexplore.ieee.org/abstract/document/9976185)).
 - [Extended environment](https://github.com/ScheiklP/sofa_env/tree/main/sofa_env/scenes/tissue_retraction
