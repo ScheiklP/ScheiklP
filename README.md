@@ -1,3 +1,9 @@
+### Where to find me
+- [Homepage](https://scheiklp.github.io/)
+- [Scholar](https://scholar.google.com/citations?user=MMm79XAAAAAJ&hl=en)
+- [SPARC@FAU](https://www.sparc.tf.fau.de/)
+- [LinkedIn](https://www.linkedin.com/in/scheiklp/)
+
 ### Projects
 - [sofa_env](https://github.com/ScheiklP/sofa_env): Reinforcement learning environments for robot-assisted laparoscopic surgery.
 - [sofa_zoo](https://github.com/ScheiklP/sofa_zoo): Reinforcement learning scripts for sofa_env environments.
