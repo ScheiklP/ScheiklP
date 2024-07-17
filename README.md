@@ -19,6 +19,7 @@
 
 ### Educational projects
 - [CURAC Academy 2021 - Workshop](https://github.com/ScheiklP/CURAC-Academy-2021): Introduction to deep learning on medical data.
+- [COSUR 2024 - Reinforcement Learning for Robot-Assisted Surgery](https://github.com/ScheiklP/COSUR-2024-RL-for-RAS): Reinforcement Learning to control the dVRK robot for point reaching and tissue retraction
 
 ### Contributing to
 - [SOFA](https://github.com/sofa-framework/sofa): Real-time multi-physics simulation with an emphasis on medical simulation.
