@@ -1,7 +1,6 @@
 ### Where to find me
 - [Homepage](https://scheiklp.github.io/)
 - [Scholar](https://scholar.google.com/citations?user=MMm79XAAAAAJ&hl=en)
-- [SPARC@FAU](https://www.sparc.tf.fau.de/)
 - [LinkedIn](https://www.linkedin.com/in/scheiklp/)
 
 ### Projects
